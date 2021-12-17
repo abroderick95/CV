@@ -1,0 +1,18 @@
+body {
+  background-color: #FAEDC6;
+  color: #39A388;
+}
+
+textarea, input {
+  background-color: #FFE3E3;
+  border-color: #FFA0A0;
+  border-style: solid;
+  border-width: 2px;
+  color: #262A53;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 10px;
+  border-color: white;
+}
