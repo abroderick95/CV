@@ -1,0 +1,26 @@
+h1, h2, h3 {
+  color: #184D47;
+}
+
+body {
+  background-color: #FAEDC6;
+  color: #39A388;
+}
+
+th {
+  color: #184D47;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 10px;
+  border-color: white;
+}
+
+strong {
+  color: #184D47;
+}
+
+a {
+  color: #FFA0A0;
+}
