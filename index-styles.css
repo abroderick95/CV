@@ -24,3 +24,7 @@ strong {
 a {
   color: #FFA0A0;
 }
+
+a:hover {
+  color: #6155A6;
+}
