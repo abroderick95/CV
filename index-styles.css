@@ -5,6 +5,8 @@ h1, h2, h3 {
 body {
   background-color: #FAEDC6;
   color: #39A388;
+  font-size: medium;
+  font-family: Georgia, Times, Times New Roman, serif;
 }
 
 th {
